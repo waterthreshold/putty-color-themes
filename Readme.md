@@ -12,9 +12,17 @@ This script applies color theme on saved sessions in PuTTY on linux
 	execute  ./convert_format.sh will create linux theme config in linux directory
 	execute ./change_theme.sh will random pick those one of config as theme
 
+## TTerm supported 
 
+```
+./conv2tt.py .
+```
 
+That will be parser all .reg to teraterm accepted format 
 
+Extra add by AI
+    * Nordic velvet
+    * Morandi silence 
 ----
 Original [putty.org.ru](http://putty.org.ru/themes/index.html)
 
